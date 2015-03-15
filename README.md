@@ -1,3 +1,3 @@
 # datasciencecoursera
- Scientist's Toolbox Assessment 
-Science Specialisation course
+Main course "Science Specialisation"
+Theme "Scientist's Toolbox Assessment" 
