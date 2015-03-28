@@ -5,7 +5,7 @@ date: "Saturday, March 14, 2015"
 output:
   html_document:
     highlight: espresso
-    theme: cerulean
+    theme: This is an R Markdown file 
 ---
 
-This is an R Markdown file. 
+
